@@ -41,24 +41,3 @@ Me chamo Luís Gustavo, tenho 22 anos e sou apaixonado por tecnologia e desenvol
 <img align="left" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
 <img align="left" alt="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-
-<br/>
-<br/>
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=luisgustavosn&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=7200"
-  />
-
-  <img 
-    align="left"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgustavosn&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=7200"
-  />
-</p>
